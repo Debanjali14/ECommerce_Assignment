@@ -90,7 +90,7 @@ If you have feedback, create an issue on GitHub.
 
 🔧 Installation
 Clone the repo
-git clone https://github.com/Anohita2004/E-Commerce.git
+git clone https:
 Navigate to the project folder
 cd ecommerce-hibernate
 Set up MySQL & configure hibernate.cfg.xml
